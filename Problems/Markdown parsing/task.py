@@ -1,0 +1,1 @@
+print(input().lstrip("*_~`").rstrip("*_~`"))
